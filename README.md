@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on Python and ML
 - 📫 How to reach me sanjayvarmacol@gmail.com
-- 😄 Pronouns: HE
+- 😄 Pronouns: HE/HIM
 
 <!---
 Sanjay-Varma-Hi/Sanjay-Varma-Hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
