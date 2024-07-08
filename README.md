@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love doing things alone
 
-<h2 align="left">Hi 👋! My name is Mufaddal and I'm a Software Developer, from United States</h2>
+<h2 align="left">Hi 👋! My name is Sanjay Varma and I'm a Software Engineer, from United States</h2>
 
 ###
 
