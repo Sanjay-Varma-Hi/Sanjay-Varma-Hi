@@ -8,20 +8,11 @@
 
 <h2 align="left">Hi 👋! My name is Sanjay Varma and I'm a Software Engineer</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mufaddalone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mufaddalone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">👨🏻‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 🎓 I’m studying at Santa Clara University<br>- 📜 I'm pursuing my Masters in Computer Science and Engineering<br>- 📚 I'm currently learning Blockchain Technologies<br>- ⚡ In my free time I like playing video games</p>
+<p align="left">- 🎓 I’m studying at Santa Clara University<br>- 📜 I'm pursuing my Masters in Computer Science and Engineering<br>- 📚 I'm currently learning Machine learning<br>- ⚡ In my free time I like exploring new things</p>
 
 ###
 
