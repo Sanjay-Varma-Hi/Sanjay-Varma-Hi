@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Flutter, Data Science and web dev
 - 📫 How to reach me sthotakura@scu.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love doing things alone
+- ⚡ Fun fact: Love going on hikes
 
 <h2 align="left">Hi 👋! My name is Sanjay Varma and I'm a Software Engineer</h2>
 
