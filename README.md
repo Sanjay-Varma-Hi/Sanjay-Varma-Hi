@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sanjay Varma
 - 👀 I’m interested in Hiking, Music
-- 🌱 I’m currently learning Flutter and ML
-- 💞️ I’m looking to collaborate on Flutter, Data Science and web dev
-- 📫 How to reach me sthotakura@scu.edu
+- 🌱 I’m currently learning Fullstack and ML
+- 💞️ I’m looking to collaborate on Data Science and web dev
+- 📫 How to reach me sanjayvarmacol2@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love going on hikes
 
