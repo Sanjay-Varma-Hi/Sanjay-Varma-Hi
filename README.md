@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love going on hikes
 
-<h2 align="left">Hi 👋! My name is Sanjay Varma and I'm a Software Engineer</h2>
+<h2 align="left">Hi 👋! My name is Sanjay Varma and I'm a Software Developer</h2>
 
 <h3 align="left">👨🏻‍💻  About Me</h3>
 
