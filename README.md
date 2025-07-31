@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hiking, Music
 - 🌱 I’m currently learning Fullstack and ML
 - 💞️ I’m looking to collaborate on Data Science and web dev
-- 📫 How to reach me sanjayvarmacol2@gmail.com
+- 📫 How to reach me sanjayvarmacol4@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love going on hikes
 
